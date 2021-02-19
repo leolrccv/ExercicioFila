@@ -1,0 +1,7 @@
+C:\Users\leleo\source\repos\Fila\Fila\bin\Debug\Fila.exe.config
+C:\Users\leleo\source\repos\Fila\Fila\bin\Debug\Fila.exe
+C:\Users\leleo\source\repos\Fila\Fila\bin\Debug\Fila.pdb
+C:\Users\leleo\source\repos\Fila\Fila\obj\Debug\Fila.csprojAssemblyReference.cache
+C:\Users\leleo\source\repos\Fila\Fila\obj\Debug\Fila.csproj.CoreCompileInputs.cache
+C:\Users\leleo\source\repos\Fila\Fila\obj\Debug\Fila.exe
+C:\Users\leleo\source\repos\Fila\Fila\obj\Debug\Fila.pdb
